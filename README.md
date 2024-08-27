@@ -1,13 +1,19 @@
 # Retrieval Augmented Generation
-A simple Retrieval Augmented Generation function uses M3e model to extract the features of documents, and uses Milvus as a vector database to store and query similar images.  
-
+A naive Retrieval Augmented Generation implementation uses the M3e model for text embedding, uses Milvus for vector data storage and retrieval, and LLM uses Llama3-8b. 
+<br/>
 <br/>
   
 You can run the following script to start the Gradio web UI:
 ```bash
 python3 rag.py
 ```
-  
+
+<br/>
+A brief description video is below:
+<br/>
+https://www.bilibili.com/video/BV1ff421X7YN
+<br/>
+<br/>
 中文解释文档在<a href="document_zh.pdf">这里</a>。
 <br/>
 
