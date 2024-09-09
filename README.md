@@ -4,7 +4,7 @@ A naive Retrieval Augmented Generation implementation uses the M3e model for tex
 The UI is shown below:
 
 <p align="center">
-  <img src="data/rag.png" alt="UI demo" />
+  <img src="rs/rag.png" alt="UI demo" />
 </p>
 
 <br/>
