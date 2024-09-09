@@ -1,6 +1,12 @@
 # Retrieval Augmented Generation
 A naive Retrieval Augmented Generation implementation uses the M3e model for text embedding, uses Milvus for vector data storage and retrieval, and LLM uses Llama3-8b. 
 <br/>
+The UI is shown below:
+
+<p align="center">
+  <img src="data/rag.png" alt="UI demo" />
+</p>
+
 <br/>
   
 You can run the following script to start the Gradio web UI:
